@@ -1,0 +1,8 @@
+{
+  "name": "NovaTool - Future of Productivity",
+  "description": "A high-performance promotional website for NovaTool, featuring interactive history timelines, dynamic use-case explorations, and an integrated AI assistant to guide users through the platform's capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
