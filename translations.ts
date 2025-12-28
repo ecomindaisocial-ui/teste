@@ -25,7 +25,7 @@ export const translations = {
         { title: 'Checagem', desc: 'A EcoMindIA cruza e valida os dados coletados, traduzindo informações complexas em orientações confiáveis e fáceis de entender.' },
         { title: 'Pratica', desc: 'A EcoMindIA entrega respostas claras, com soluções práticas e sugestões de aplicação no seu dia a dia no campo.' }
       ],
-      hubTitle: 'Nossos Compromissos',
+      hubTitle: 'O Hub Inteligente da Sua Vida Digital',
       hubItems: [
         "Busca Universal em todos os serviços conectados",
         "Resumo por IA para longos documentos",
